@@ -1,2 +1,4 @@
 # RotorHazard-one-click-management
-repo is now a part of bigger project - link in readme file
+this repository is now a part of bigger project - link:
+
+https://github.com/szafranski/RH-ota
